@@ -8,6 +8,7 @@ namespace HelloWorldExample
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I changed the file here.");
+            Console.WriteLine("More changes made.");
         }
     }
 }
